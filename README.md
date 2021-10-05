@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dvalmont07
-- 👀 I’m interested in develop my knoweledge
+- 👀 I'm interested in improve my knowledge
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on C#
 
