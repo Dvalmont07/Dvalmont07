@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dvalmont07
 - 👀 I'm interested in improve my knowledge
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on C# and Angular
+- 💞️ I’m looking to collaborate on C#, Angular, CSS and SQL
 
 
 <!---
